@@ -1,2 +1,2 @@
-- everware_based: False
-- start_command: Rscript start.R
+everware_based: False
+start_command: Rscript start.R
